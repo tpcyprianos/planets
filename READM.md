@@ -1,1 +1,0 @@
-# Demo session on Git
